@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm ohrokgyu. This is lab2 asssignment.
 
 <!--
 **rokgyu/rokgyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
